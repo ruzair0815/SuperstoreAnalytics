@@ -31,10 +31,6 @@ Sub-Category Analysis
 - Office Supplies sell in high volume but have thin profit margins.
 - Tables in the Furniture category consistently show negative profit, suggesting over-discounting or supply chain inefficiencies.
 
-Discount Impact
-- High discount levels do not always increase profit.
-- In fact, some categories show losses when discounts exceed 30%.
-
 Customer Segments
 - Corporate customers drive higher sales, but Home Office customers are more profitable proportionally.
 
